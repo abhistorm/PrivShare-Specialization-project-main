@@ -9,6 +9,8 @@ The 24hrs limits avail privacy and confidentiality of the files as the uploaded 
 The app is a creative solution that ensures the process of sharing files with individuals or groups simpler. Users will be able to share files with friends, family, coworkers, and other people or groups in a secure, quick, and effective manner thanks to the app.
 
 ## Running
+![image](https://github.com/abhistorm/PrivShare-Specialization-project-main/assets/74293846/4bdfe0c6-0ce8-4ee9-922b-ce5e31f8d1c6)
+
 
 In the project directory, you can run:
 
@@ -30,7 +32,4 @@ Your app is ready to be deployed!
 
 ### `npm run preview` or `yarn run preview`
 
-
-
-Courtesy: ALX Backend Specialization Project
 
